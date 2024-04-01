@@ -3,16 +3,16 @@ const YEAR = new Date().getFullYear();
 export default {
   footer: (
     <footer>
-      <small>
-        <time>{YEAR}</time> © Your Name.
-        <a href="/feed.xml">RSS</a>
-      </small>
+      <large>
+        <time>{YEAR}</time> © Copyright
+        <a href="https://uspekhi.web.app"rel="noopener"  target="_blank" > USPEKHI</a>
+      </large>
       <style jsx>{`
         footer {
-          margin-top: 8rem;
+          margin-top: 5rem;
         }
         a {
-          float: right;
+          float: center;
         }
       `}</style>
     </footer>

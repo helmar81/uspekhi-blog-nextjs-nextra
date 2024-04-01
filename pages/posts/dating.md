@@ -1,0 +1,180 @@
+---
+title: Dating
+date: 2021/3/18
+description: can be very easy when you are...
+tag: girls
+author: You
+image: "/photo.jpg"
+
+
+---
+
+# Next.js Pages
+
+
+
+
+<Image
+  src="/images/match1.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+
+## Looking for a spouse
+
+dating is very easy here
+
+
+ ## Here are some conversations I have captured on my trip to the Philippines
+
+ <Image
+  src="/images/grateful.png"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+
+### grateful
+###  she was so grateful and had not the intention to make an extra income
+
+
+#### next one
+
+
+ <Image
+  src="/images/f2.png"
+  alt="Photo"
+  width={1125}
+  height={750}
+  priority
+  className="next-image"
+/>
+
+### straight to the point
+### good to know that you can rent a room for 60 Euro / month
+
+
+#### next one
+
+<Image
+  src="/images/scam2.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+### Selling nude pictures and videos
+### I had to block her...
+
+#### next one
+
+<Image
+  src="/images/f1.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+### Dinner for three
+### she was already with a friend and was awaiting me to pay the bills, but I didnt show up
+
+#### next one
+<Image
+  src="/images/f1.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+#### next one
+
+<Image
+  src="/images/fN.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+### Requesting money for transportation
+###  Apparently she is from far away and requesting money upfront to meet
+
+
+
+
+
+
+
+ <h2> There are several things you can do to avoid scams: </h2>
+<ul>
+<li>
+1. Be wary of unsolicited emails, messages, or phone calls: Scammers often contact people out of the blue to offer deals that are too good to be true. Be cautious of any unexpected communication and do not provide personal information or payment details unless you are absolutely certain of the legitimacy of the request.
+</li>
+
+<li>
+    2. Research the company or individual: Do a quick online search to see if the company or person contacting you has a good reputation. Look for reviews or complaints from other customers.
+    </li>
+
+  <li>
+       3. Be cautious when providing personal information: Do not give out personal information such as your social security number, bank account number, or credit card details unless you are sure of the legitimacy of the request.
+</li>
+
+  <li>
+            4. Check the website's security: When making a payment or entering personal information on a website, make sure the website has a secure connection (look for "https" at the beginning of the URL and a padlock symbol in the address bar).
+             </li>
+
+   <li>
+                5. Trust your instincts: If something seems too good to be true or feels off, trust your gut and walk away.
+                 </li>
+                 <li>
+                    6. Keep your software up to date: Make sure your computer, smartphone, and other devices are up to date with the latest software updates and security patches
+                     </li>
+                     <li>
+                        7. Use strong passwords: Use strong passwords that are difficult to guess or hack.
+                         </li>
+
+<li>
+                        8. If you get a text message or phone call with the country code +234 which is Nigaria, your alarm clocks should be ringing
+                         </li>
+</ul>
+     
+     
+     
+### By following these tips, you can protect yourself from scams and avoid becoming a victim of fraud.
+
+
+      
+#### Unfortunately I did not follow this advice, as a result my Facebook account got hacked by a nigerian Scammer
+
+
+<Image
+  src="/images/scammer.png"
+  alt="Photo"
+  width={525}
+  height={170}
+  priority
+  className="next-image"
+/>
+
+
+
+
+
+
+
+
+
+

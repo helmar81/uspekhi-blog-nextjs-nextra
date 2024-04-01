@@ -54,6 +54,7 @@ details summary {
 
 img.next-image {
   margin: 0;
+  border-radius: 8px;
 }
 
 .prose a {
@@ -63,3 +64,14 @@ img.next-image {
 .nav-line .nav-link {
   color: #69778c;
 }
+
+
+
+table {
+ 
+  margin-bottom: auto;
+  width: 1000px;
+  height: 300px;
+  ;
+}
+
